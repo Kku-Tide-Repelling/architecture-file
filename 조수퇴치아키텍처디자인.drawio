@@ -1,0 +1,252 @@
+<mxfile host="app.diagrams.net" modified="2023-10-31T07:54:40.269Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="qkD2LoqyycXnIGCfXulc" version="22.0.8" type="device">
+  <diagram name="페이지-1" id="g4kg35ffdAl-vT05DxJy">
+    <mxGraphModel dx="6044" dy="6127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-13" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;lucidId=CN~nvf4u_pia;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-2580" y="-2747" width="1815" height="1800" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-14" value="탐지 및 퇴치 기기" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=53.3;fontFamily=Liberation Serif;fontColor=#000000;fontStyle=1;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;fillColor=none;lucidId=pO~n.jC4jvng;" parent="1" vertex="1">
+          <mxGeometry x="-1995" y="-2860" width="405" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-16" value="PIR " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=45;fontFamily=Liberation Serif;fontColor=#000000;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;fillColor=none;lucidId=9R~nRO9~Obim;" parent="1" vertex="1">
+          <mxGeometry x="-2452" y="-2725" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-17" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;align=left;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=4.5;lucidId=7S~nOM9Ey.OH;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-2205" y="-2654" width="510" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-18" value="탐지 모듈 (배성욱)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=36.7;fontFamily=Liberation Serif;fontColor=#000000;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;fillColor=none;lucidId=aT~nT_zsIljB;" parent="1" vertex="1">
+          <mxGeometry x="-2100" y="-2710" width="308" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-19" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/a1878244-3d0a-4eb4-8a07-587ca200e897/content;lucidId=FR~nQA9eKr4-;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-2424" y="-2670" width="124" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-20" value="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 21.7px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&#x9;&#x9;&#x9;&#x9;   PIR 지속 탐지 모듈&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;1.PIR센서에게 물체가 감지되는지 확인&lt;br&gt;2.물체 감지시 &lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-style: italic; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&#x9;2-1.PIR 센서만 존재하는 경우&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&lt;br&gt;&#x9;퇴치 모듈로 &quot;&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;감지됨(1)&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&quot; 정보 전달&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-style: italic; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&#x9;2-2.비전 센서가 존재하는 경우&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&lt;br&gt;&#x9;비전 센서에게 물체 특정 요청&lt;br&gt;&#x9;&#x9;2-2-1.비전 센서가 물체를 특정하지 못한 경우&lt;br&gt;&#x9;&#x9;오감지로 인식하고, 1. 과정으로 이동 &lt;br&gt;&#x9;&#x9;2-2-2. 비전 센서가 물체를 특정한 경우 &lt;br&gt;&#x9;&#x9;퇴치 모듈로 &lt;br&gt;&#x9;&#x9;&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;해당 물체의 클래스와 감지된 물체의 마리수&lt;/span&gt; 전달 &lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="points=[[0.017,0.175,0],[0.648,0.433,0],[0.936,0.929,0]];html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Liberation Serif;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=3;lucidId=kU~nwxTLUXN0;strokeColor=#36393d;fillColor=#fff;" parent="1" vertex="1">
+          <mxGeometry x="-2167" y="-2625" width="435" height="264" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-21" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 20px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;PIR 감지 요청 모듈&#xa;&lt;/span&gt;&lt;span style=&quot;font-size: 18.3px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;1. &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;PIR 센서에게 현재 물체가 탐지되는지 요청 &#xa;2-1. 감지시 &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&quot;감지됨(1)&quot; &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;리턴&#xa;2-2. 감지가 안될시 &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&quot;감지안됨(0)&quot; &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;리턴&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Liberation Serif;spacing=9;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=3;lucidId=nV~n7oib_anX;fillStyle=auto;fillColor=#FFFFFF;strokeColor=#36393d;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-2160" y="-2320" width="428" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-22" value="" style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=0.017;exitY=0.175;exitPerimeter=0;entryX=1;entryY=0.455;entryPerimeter=0;lucidId=CV~nEvOosHYp;fontColor=#000000;" parent="1" source="Yk3yq3EOusvbQGCcxjN9-20" target="Yk3yq3EOusvbQGCcxjN9-19" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-23" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;align=left;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=4.5;lucidId=17~npsfqUW1K;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1479" y="-2654" width="405" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-24" value="퇴치 모듈(배성욱)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=36.7;fontFamily=Liberation Serif;fontColor=#000000;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;fillColor=none;lucidId=97~nYcyejW2l;" parent="1" vertex="1">
+          <mxGeometry x="-1425" y="-2710" width="293" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-25" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 20px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;PIR 퇴치 모듈 &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&#xa;하나의 모델로 퇴치 진행 &#xa;&#xa;일정시간(3, 10초)후 탐지모듈에게&#xa; 탐지 되는지 확인&#xa;- 감지 시,  퇴치 모듈의 보상값 - 지급&#xa;(3초 뒤 -0.3 , 10초뒤 -1)&#xa;감지가 안될 때까지 위의 과정 무한 반복&#xa;&#xa;- 감지 안될 시, 퇴치모듈 보상값 + 지급 &#xa;(3초뒤 +0.3 , 10초뒤 +1)&#xa;후에 통신 모듈에 퇴치 랭킹 리스트 리턴 &#xa;-&amp;gt; [[퇴치메소드명 , 총 보상값]]&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="points=[[0.301,0.351,0],[0.88,0.889,0]];html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Liberation Serif;spacing=9;strokeColor=#36393d;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#FFFFFF;strokeWidth=3;lucidId=v8~nYSRaR.1n;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1434" y="-2631" width="315" height="282" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-26" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 20px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;PIR + 비전 퇴치 모듈 &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&#xa;&#xa;탐지 클래스 별로 모델이 존재 &#xa;퇴치 모델 별로 작동 진행&#xa;&#xa;일정시간(3, 10초)후 탐지모듈에게&#xa; 탐지 되는지 확인&#xa;- 감지 시,  퇴치 모듈의 보상값 - 지급&#xa;(3초 뒤 -0.3 , 10초뒤 -1)&#xa;감지가 안될 때까지 위의 과정 무한 반복&#xa;&#xa;- 감지 안될 시, 퇴치모듈 보상값 + 지급 &#xa;(3초뒤 +0.3 , 10초뒤 +1)&#xa;후에 통신 모듈에 퇴치 랭킹 리스트 및 데이터 리턴&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="points=[[0.311,0.436,0],[0.93,0.861,0]];html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Liberation Serif;spacing=9;strokeColor=#36393d;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=3;lucidId=5caoUyy.vLRz;fillColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1434" y="-2315" width="315" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-27" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/405aea34-17d2-4e84-908d-1ff82cc86050/content;lucidId=kgaoMA1seIOq;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-2415" y="-2455" width="115" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-28" value="비전 센서" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=41.7;fontFamily=Liberation Serif;fontColor=#000000;fontStyle=1;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;fillColor=none;lucidId=2gaoMQbh3zTY;" parent="1" vertex="1">
+          <mxGeometry x="-2452" y="-2565" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-29" value="" style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.628;entryPerimeter=0;lucidId=Pkaoxe8T7ABV;fontColor=#000000;" parent="1" source="Yk3yq3EOusvbQGCcxjN9-27" target="Yk3yq3EOusvbQGCcxjN9-20" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-30" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 20px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;비전 감지 요청 모듈&#xa;&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;1. 비전 센서에게 현재 물체가 탐지되는지 요청&#xa;2-1. 물체가 특정이 될 시 &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&quot;감지됨(1)&quot; &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;리턴&#xa;2-2. 물체가 특정이 안될 시 &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&quot;감지안됨(0)&quot; &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;리턴&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Liberation Serif;spacing=9;strokeColor=#36393d;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=3;lucidId=WsaoJsOYyNAx;fillColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-2160" y="-2170" width="428" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-31" value="" style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=-0.004;exitY=0.5;exitPerimeter=0;entryX=1;entryY=0.952;entryPerimeter=0;lucidId=4waopuZ4sb7J;fontColor=#000000;" parent="1" source="Yk3yq3EOusvbQGCcxjN9-21" target="Yk3yq3EOusvbQGCcxjN9-19" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-32" value="" style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=-0.004;exitY=0.5;exitPerimeter=0;entryX=1;entryY=0.888;entryPerimeter=0;lucidId=~wao6_~FxiNb;fontColor=#000000;" parent="1" source="Yk3yq3EOusvbQGCcxjN9-30" target="Yk3yq3EOusvbQGCcxjN9-27" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-33" value="" style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=0.301;exitY=0.351;exitPerimeter=0;entryX=1.004;entryY=0.152;entryPerimeter=0;lucidId=PxaobxXZaEsy;fontColor=#000000;" parent="1" source="Yk3yq3EOusvbQGCcxjN9-25" target="Yk3yq3EOusvbQGCcxjN9-21" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-34" value="-&amp;gt; 1또는 0 (감지됨, 안됨)" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#000000;fontSize=16.7;" parent="Yk3yq3EOusvbQGCcxjN9-33" vertex="1">
+          <mxGeometry x="0.15391033873455928" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-35" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=1.004;exitY=0.088;exitPerimeter=0;entryX=0.311;entryY=0.436;entryPerimeter=0;lucidId=Zxaoo4MTxpgX;fontColor=#000000;" parent="1" source="Yk3yq3EOusvbQGCcxjN9-30" target="Yk3yq3EOusvbQGCcxjN9-26" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-36" value="-&amp;gt; 1또는 0 (감지됨, 안됨)" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#000000;fontSize=16.7;" parent="Yk3yq3EOusvbQGCcxjN9-35" vertex="1">
+          <mxGeometry x="-0.26443541845910734" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-37" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.648;exitY=0.433;exitPerimeter=0;entryX=-0.005;entryY=0.103;entryPerimeter=0;lucidId=zyao4NTb_Y_c;fontColor=#000000;" parent="1" source="Yk3yq3EOusvbQGCcxjN9-20" target="Yk3yq3EOusvbQGCcxjN9-25" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-38" value="-&amp;gt; 1 (감지됨)" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#000000;fontSize=16.7;" parent="Yk3yq3EOusvbQGCcxjN9-37" vertex="1">
+          <mxGeometry x="0.32793313798196366" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-39" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.936;exitY=0.929;exitPerimeter=0;entryX=-0.005;entryY=0.219;entryPerimeter=0;lucidId=TyaomLs178b6;fontColor=#000000;" parent="1" source="Yk3yq3EOusvbQGCcxjN9-20" target="Yk3yq3EOusvbQGCcxjN9-26" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-40" value="-&amp;gt; 조수 클래스, &#xa;     조수 마리수" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#000000;fontSize=16.7;" parent="Yk3yq3EOusvbQGCcxjN9-39" vertex="1">
+          <mxGeometry x="0.304501659547495" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-41" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;align=left;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=4.5;lucidId=99aozDVMrbZ~;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1771" y="-1825" width="405" height="555" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-42" value="통신 모듈(홍승현)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=36.7;fontFamily=Liberation Serif;fontColor=#000000;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;fillColor=none;lucidId=99aocPQjiaxS;" parent="1" vertex="1">
+          <mxGeometry x="-1695" y="-1870" width="278" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-43" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;게이트웨이로 데이터 전달 모듈&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;퇴치모듈에서 받은 데이터와 &lt;br&gt;현재 시간 (= 퇴치 시간 ),&lt;br&gt;현재 기기의 serialId 를 합쳐서 &lt;br&gt;로라 프로토콜로 데이터를 게이트웨이로 데이터를 전송&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Liberation Serif;spacing=9;strokeColor=#36393d;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#FFFFFF;strokeWidth=3;lucidId=j-ao.9E9Jj5P;" parent="1" vertex="1">
+          <mxGeometry x="-1725" y="-1803" width="315" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-44" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.88;exitY=0.889;exitPerimeter=0;entryX=1.005;entryY=0.181;entryPerimeter=0;lucidId=_obo_Xnpjn4t;fontColor=#000000;" parent="1" source="Yk3yq3EOusvbQGCcxjN9-25" target="Yk3yq3EOusvbQGCcxjN9-43" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1020" y="-2380" />
+              <mxPoint x="-1020" y="-1768" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-45" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.93;exitY=0.861;exitPerimeter=0;entryX=1.005;entryY=0.181;entryPerimeter=0;lucidId=iqbosCI_l5~E;fontColor=#000000;" parent="1" source="Yk3yq3EOusvbQGCcxjN9-26" target="Yk3yq3EOusvbQGCcxjN9-43" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1020" y="-2035" />
+              <mxPoint x="-1020" y="-1768" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-46" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;lucidId=enco6C2bbJhk;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-348" y="-2230" width="558" height="345" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-47" value="게이트웨이(홍승현)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=53.3;fontFamily=Liberation Serif;fontColor=#000000;fontStyle=1;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;fillColor=none;lucidId=tncoMCcHD2Hf;" parent="1" vertex="1">
+          <mxGeometry x="-285" y="-2290" width="405" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-48" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.005;exitY=0.845;exitPerimeter=0;entryX=-0.004;entryY=0.5;entryPerimeter=0;lucidId=ZncoI~Y_WNL4;fontColor=#000000;" parent="1" source="Yk3yq3EOusvbQGCcxjN9-43" target="Yk3yq3EOusvbQGCcxjN9-50" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-49" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;PIR &lt;/span&gt;&lt;span style=&quot;font-size: 25px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&lt;br&gt;퇴치 시간&lt;br&gt;퇴치 기기 serialId&lt;br&gt;Sound File Name&lt;br&gt;Sound Level&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 25px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;PIR + 비전 &lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 25px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;조수 클래스&lt;br&gt;조수 마리수&lt;/span&gt;&lt;span style=&quot;font-size: 25px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 25px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;퇴치 랭킹 리스트 &lt;br&gt;퇴치 시간&lt;br&gt;퇴치 기기 serialId&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;labelBackgroundColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Liberation Serif;fontColor=default;" parent="Yk3yq3EOusvbQGCcxjN9-48" vertex="1">
+          <mxGeometry x="0.2953441819459366" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-50" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;서버로 데이터 전달 모듈&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;1.&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;퇴치 기기로 전달 받은 데이터에 &lt;br&gt;+ &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;게이트웨이 SerialId &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;를 더하여서&lt;br&gt;서버로 HTTP 프로토콜을 이용해 데이터 전달&lt;br&gt;2. 통신 기기의 serialId를 따로 저장 해놓음 &lt;br&gt;-&amp;gt; 밑의 모듈에서 활용하기 위하여 &lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Liberation Serif;spacing=9;strokeColor=#36393d;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f9f7ed;strokeWidth=3;lucidId=.nco4kXjDqW2;" parent="1" vertex="1">
+          <mxGeometry x="-265" y="-2217" width="391" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-51" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;기기가 정상작동 확인 모듈 &lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;게이트웨이에서 통신 기기로 &lt;br&gt;특정 시간마다 (1시간) 기기가 정상작동중인지 확인 &lt;br&gt;1. 만약 정상적으로 응답이 오면 , &lt;br&gt;정상 기기의 serialId 를 전달 &lt;br&gt;2. 만약 응답이 돌아오지 않으면, &lt;br&gt;서버에서 알아서 처리&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Liberation Serif;spacing=9;strokeColor=#36393d;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=3;lucidId=UtcoeAHZfJn8;fillColor=#f9f7ed;" parent="1" vertex="1">
+          <mxGeometry x="-265" y="-2065" width="391" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-52" value="" style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;fontFamily=Liberation Serif;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.004;exitY=0.5;exitPerimeter=0;entryX=0.82;entryY=0.475;entryPerimeter=0;lucidId=gBcofkO1nhFa;fontColor=#000000;" parent="1" source="Yk3yq3EOusvbQGCcxjN9-50" target="Yk3yq3EOusvbQGCcxjN9-53" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="-2144" />
+              <mxPoint x="420" y="-1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-53" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/961ac281-3def-46a2-be6f-95f6c7ad234b/content;imageAspect=0;lucidId=UFeoVPnknfVt;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-96" y="-1165" width="306" height="306" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-54" value="서버" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=53.3;fontFamily=Liberation Serif;fontColor=#000000;fontStyle=1;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;fillColor=none;lucidId=1FeokX3WU52W;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="-1225" width="405" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-55" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/959b7a6e-96c8-4cfe-b187-fe56981d25eb/content;imageAspect=0;lucidId=nGeohGMjLjGY;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-765" y="-955" width="405" height="405" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-56" value="클라이언트(농부)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=53.3;fontFamily=Liberation Serif;fontColor=#000000;fontStyle=1;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;fillColor=none;lucidId=wGeoadyNKcOU;" parent="1" vertex="1">
+          <mxGeometry x="-765" y="-985" width="405" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-57" value="" style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.18;exitY=0.5;exitPerimeter=0;entryX=0.953;entryY=0.563;entryPerimeter=0;lucidId=4GeoLg3owGjT;fontColor=#000000;" parent="1" source="Yk3yq3EOusvbQGCcxjN9-53" target="Yk3yq3EOusvbQGCcxjN9-55" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-58" value="로그인, &#xa;로그아웃, &#xa;회원가입,&#xa;통계 데이터 전달" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#000000;fontSize=16.7;" parent="Yk3yq3EOusvbQGCcxjN9-57" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-59" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=0.305;exitY=0.521;exitPerimeter=0;entryX=1.005;entryY=0.427;entryPerimeter=0;lucidId=3Heo_iVfI2pm;fontColor=#000000;" parent="1" source="Yk3yq3EOusvbQGCcxjN9-55" target="Yk3yq3EOusvbQGCcxjN9-62" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-60" value="Bluetooth 통신 (후순위 개발 )&#xa;&#xa;기기는 농부에게&#xa;가지고있는 소리 전달 &#xa;&#xa;농부는 기기에게 &#xa;소리 데이터 전달 " style="text;html=1;resizable=0;labelBackgroundColor=#FFFFFF;align=center;verticalAlign=middle;fontStyle=1;fontColor=#000000;fontSize=16.7;" parent="Yk3yq3EOusvbQGCcxjN9-59" vertex="1">
+          <mxGeometry x="0.06111737727973576" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-61" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/ad247eb2-a99e-4f70-9727-a3c796f904f6/content;imageAspect=0;lucidId=JMeoTq~NuZVK;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1340" y="-920" width="84" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-62" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 20px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;블루투스 모듈&#xa;&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;클라이언트가 요청시 &lt;/span&gt;&lt;span style=&quot;font-size: 18.3px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&#xa;&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;소리 리스트&lt;/span&gt;&lt;span style=&quot;font-size: 18.3px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;리턴&#xa;- 클라이언트가 파일(소리)를 전달시&#xa;소리 파일 저장&#xa;&#xa;(아이폰 X)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Liberation Serif;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=3;lucidId=r_eozw5MEk9C;fontColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-1726" y="-1459" width="315" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-63" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;align=left;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=4.5;lucidId=dgfojXSFa.9H;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-2310" y="-1825" width="405" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-64" value="상태 관리 모듈(공통)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=36.7;fontFamily=Liberation Serif;fontColor=#000000;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;fillColor=default;lucidId=dgfo3w7KFCDk;" parent="1" vertex="1">
+          <mxGeometry x="-2287" y="-1870" width="359" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-65" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 20px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;시스템 관리 모듈&#xa;&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;- 만약 시스템에 에러가 발생 시 , &#xa;라즈베리파이 restart&#xa;- 모든 모듈은 재실행 후 자동으로 실행 필요 !! &#xa;(shell script 를 이용하여 자동  실행되게 ) &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Liberation Serif;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#FFFFFF;strokeWidth=3;lucidId=XgfolkwY4.H5;fontColor=#000000;gradientColor=none;fillStyle=auto;" parent="1" vertex="1">
+          <mxGeometry x="-2265" y="-1814" width="315" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-66" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.004;exitY=0.5;exitPerimeter=0;entryX=1.005;entryY=0.46;entryPerimeter=0;lucidId=2pfohuSep.NB;fontColor=#000000;" parent="1" source="Yk3yq3EOusvbQGCcxjN9-51" target="Yk3yq3EOusvbQGCcxjN9-67" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-67" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;기기정상 작동 확인 모듈 &lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;게이트웨이의 메시지를 받으면,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;기기의 serialId 와 정상작동중(OK)&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt; 라고 응답 &lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Liberation Serif;spacing=9;strokeColor=#36393d;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=3;lucidId=tqfonsq8aC~q;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-1726" y="-1589" width="315" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-68" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 20px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;클래스 : 맷돼지, 사람일 때 ,&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&#xa;휴데폰으로 바로 알람가게&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Liberation Serif;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;fillColor=none;lucidId=JnOo8NrqPREu;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-37" y="-865" width="233" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-69" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 20px; font-weight: bold; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;PIR 퇴치 모듈 (수정버전 10/4)&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px; font-family: &amp;quot;Liberation Serif&amp;quot;;&quot;&gt;&#xa;하나의 모델로 퇴치 진행 &#xa;지금 현재 최적의 퇴치 소리를 재생,&#xa;최적의 퇴치 소리 진행후 또 감지 되면 ,&#xa;다음으로 효과 좋은 소리 재생 ,&#xa;그다음에 퇴치 될때 까지 진행&#xa;소리가 나는동안 퇴치 되면 소리 중단 &#xa;&#xa;(민가에 피해 안끼치는 소리 )&#xa;그 후에 현재 까지 계산 진행&#xa;후에 통신 모듈에 퇴치 랭킹 리스트 리턴 &#xa;-&amp;gt; [[퇴치메소드명 , 총 보상값]]&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Liberation Serif;spacing=9;strokeColor=#36393d;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#FFFFFF;strokeWidth=3;lucidId=VzNASet-At1C;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1434" y="-3030" width="315" height="262" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-70" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#36393d;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=kH~nJWbJSTwi;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3630" y="-2815" width="720" height="645" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-71" value="농장" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=50;fontFamily=Liberation Serif;fontColor=#000000;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;fillColor=none;lucidId=wH~nbhtN7AvN;" parent="1" vertex="1">
+          <mxGeometry x="-3360" y="-2875" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-72" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/4065e614-2b41-446e-964d-555b9b96bae8/content;imageAspect=0;lucidId=UI~nObeM39~h;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-3150" y="-2755" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-73" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/4065e614-2b41-446e-964d-555b9b96bae8/content;imageAspect=0;lucidId=.I~nr~8AU8CQ;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-3150" y="-2425" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-74" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/c2e5a111-6b5b-4802-8b31-83f8e9e0d681/content;imageAspect=0;lucidId=dK~nxr-gxEJs;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-3570" y="-2755" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-75" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/c2e5a111-6b5b-4802-8b31-83f8e9e0d681/content;imageAspect=0;lucidId=dL~nm1aOcu34;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-3570" y="-2425" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-76" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/cc6cae5e-a078-4d53-8b24-31c98f30b4c6/content;imageAspect=0;lucidId=dL~n-uqD8~Kb;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-3465" y="-2395" width="96" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-77" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/cc6cae5e-a078-4d53-8b24-31c98f30b4c6/content;imageAspect=0;lucidId=pN~nX027RyqQ;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-3465" y="-2725" width="96" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-78" value="탐지 및 퇴치 기기" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=31.7;fontFamily=Liberation Serif;fontColor=#000000;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;fillColor=none;lucidId=ON~njoUaF32p;" parent="1" vertex="1">
+          <mxGeometry x="-3180" y="-2245" width="240" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-79" value="탐지 및 퇴치 기기" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=31.7;fontFamily=Liberation Serif;fontColor=#000000;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;fillColor=none;lucidId=dO~n-qm-hePt;" parent="1" vertex="1">
+          <mxGeometry x="-3180" y="-2575" width="240" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk3yq3EOusvbQGCcxjN9-80" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=6;lucidId=DO~nPbDwtitz;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-3000" y="-2635" width="585" height="6" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
